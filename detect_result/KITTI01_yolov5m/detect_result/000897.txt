@@ -1,0 +1,2 @@
+left:250 top:177 right:276 bottom:194 class:car 0.27
+left:559 top:185 right:573 bottom:227 class:fire hydrant 0.29

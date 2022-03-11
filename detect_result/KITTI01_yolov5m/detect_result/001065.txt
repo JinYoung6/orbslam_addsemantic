@@ -1,0 +1,2 @@
+left:184 top:123 right:205 bottom:166 class:traffic light 0.30
+left:103 top:43 right:125 bottom:110 class:stop sign 0.63

@@ -1,0 +1,1 @@
+left:678 top:193 right:1239 bottom:309 class:airplane 0.27

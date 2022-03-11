@@ -1,0 +1,6 @@
+left:228 top:151 right:263 bottom:188 class:tv 0.25
+left:536 top:264 right:640 bottom:363 class:microwave 0.26
+left:213 top:197 right:271 bottom:334 class:refrigerator 0.45
+left:345 top:288 right:411 bottom:354 class:tv 0.56
+left:311 top:374 right:402 bottom:480 class:chair 0.67
+left:400 top:25 right:628 bottom:474 class:person 0.81

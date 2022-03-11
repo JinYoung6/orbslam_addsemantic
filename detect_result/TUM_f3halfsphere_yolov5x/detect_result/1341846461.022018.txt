@@ -1,0 +1,1 @@
+left:467 top:206 right:609 bottom:376 class:tv 0.70

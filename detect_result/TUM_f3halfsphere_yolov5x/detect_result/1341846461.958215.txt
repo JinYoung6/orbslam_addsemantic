@@ -1,0 +1,5 @@
+left:462 top:364 right:502 bottom:402 class:bottle 0.37
+left:225 top:1 right:284 bottom:55 class:book 0.46
+left:104 top:119 right:376 bottom:360 class:person 0.71
+left:531 top:318 right:578 bottom:374 class:person 0.78
+left:364 top:210 right:539 bottom:384 class:tv 0.89

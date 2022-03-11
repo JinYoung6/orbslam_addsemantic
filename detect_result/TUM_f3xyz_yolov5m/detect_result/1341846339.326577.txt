@@ -1,0 +1,9 @@
+left:293 top:251 right:313 bottom:264 class:remote 0.32
+left:275 top:235 right:435 bottom:433 class:dining table 0.42
+left:250 top:156 right:286 bottom:229 class:tv 0.50
+left:106 top:308 right:187 bottom:470 class:chair 0.53
+left:73 top:236 right:137 bottom:364 class:chair 0.56
+left:389 top:142 right:500 bottom:238 class:tv 0.83
+left:413 top:99 right:626 bottom:469 class:person 0.86
+left:422 top:278 right:638 bottom:479 class:chair 0.91
+left:142 top:1 right:325 bottom:478 class:person 0.93

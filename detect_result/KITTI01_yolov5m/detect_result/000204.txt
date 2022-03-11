@@ -1,0 +1,5 @@
+left:1030 top:207 right:1082 bottom:258 class:person 0.25
+left:633 top:180 right:660 bottom:192 class:car 0.27
+left:398 top:192 right:465 bottom:236 class:car 0.82
+left:122 top:199 right:276 bottom:264 class:car 0.89
+left:904 top:179 right:1241 bottom:371 class:car 0.90

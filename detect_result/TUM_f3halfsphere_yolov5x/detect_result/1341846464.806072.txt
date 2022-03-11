@@ -1,0 +1,4 @@
+left:246 top:210 right:350 bottom:354 class:tv 0.29
+left:235 top:419 right:446 bottom:478 class:person 0.46
+left:378 top:342 right:420 bottom:461 class:cell phone 0.52
+left:314 top:100 right:415 bottom:177 class:tv 0.63

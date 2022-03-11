@@ -1,0 +1,1 @@
+left:324 top:89 right:374 bottom:142 class:stop sign 0.84

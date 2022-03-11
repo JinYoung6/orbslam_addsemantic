@@ -1,0 +1,10 @@
+left:364 top:263 right:415 bottom:283 class:book 0.28
+left:134 top:259 right:149 bottom:271 class:remote 0.33
+left:125 top:87 right:171 bottom:235 class:refrigerator 0.35
+left:133 top:258 right:289 bottom:478 class:chair 0.42
+left:126 top:261 right:207 bottom:392 class:chair 0.56
+left:270 top:182 right:304 bottom:248 class:tv 0.65
+left:422 top:132 right:622 bottom:465 class:person 0.82
+left:399 top:169 right:505 bottom:261 class:tv 0.86
+left:437 top:299 right:639 bottom:480 class:chair 0.92
+left:152 top:3 right:314 bottom:474 class:person 0.94

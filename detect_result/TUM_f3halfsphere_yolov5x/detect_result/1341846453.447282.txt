@@ -1,0 +1,4 @@
+left:384 top:200 right:503 bottom:325 class:couch 0.25
+left:1 top:373 right:176 bottom:480 class:chair 0.65
+left:158 top:12 right:404 bottom:474 class:person 0.93
+left:370 top:202 right:606 bottom:478 class:person 0.93

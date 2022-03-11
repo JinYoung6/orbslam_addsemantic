@@ -1,0 +1,1 @@
+left:573 top:173 right:601 bottom:195 class:car 0.56

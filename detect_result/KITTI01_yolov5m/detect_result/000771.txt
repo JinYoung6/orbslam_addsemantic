@@ -1,0 +1,2 @@
+left:620 top:172 right:644 bottom:195 class:truck 0.44
+left:1119 top:200 right:1140 bottom:251 class:person 0.73

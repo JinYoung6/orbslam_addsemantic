@@ -1,0 +1,4 @@
+left:1147 top:183 right:1197 bottom:196 class:umbrella 0.31
+left:645 top:156 right:694 bottom:198 class:truck 0.38
+left:1156 top:206 right:1179 bottom:269 class:person 0.67
+left:327 top:192 right:470 bottom:273 class:car 0.92

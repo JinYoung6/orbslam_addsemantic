@@ -1,0 +1,14 @@
+left:266 top:173 right:321 bottom:201 class:book 0.39
+left:536 top:65 right:566 bottom:123 class:person 0.43
+left:55 top:217 right:76 bottom:229 class:mouse 0.46
+left:316 top:191 right:371 bottom:223 class:book 0.64
+left:532 top:0 right:628 bottom:120 class:person 0.73
+left:498 top:155 right:515 bottom:206 class:bottle 0.75
+left:257 top:217 right:275 bottom:230 class:mouse 0.78
+left:1 top:255 right:212 bottom:479 class:chair 0.78
+left:509 top:216 right:537 bottom:233 class:mouse 0.86
+left:380 top:209 right:496 bottom:230 class:keyboard 0.87
+left:145 top:103 right:247 bottom:183 class:tv 0.88
+left:355 top:82 right:507 bottom:189 class:tv 0.89
+left:135 top:204 right:242 bottom:226 class:keyboard 0.89
+left:403 top:256 right:622 bottom:477 class:chair 0.93

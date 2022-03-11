@@ -1,0 +1,2 @@
+left:0 top:172 right:134 bottom:222 class:car 0.27
+left:580 top:168 right:603 bottom:185 class:truck 0.37

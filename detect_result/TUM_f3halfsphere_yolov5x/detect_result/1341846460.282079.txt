@@ -1,0 +1,7 @@
+left:145 top:212 right:220 bottom:316 class:chair 0.30
+left:119 top:60 right:243 bottom:155 class:dining table 0.31
+left:79 top:107 right:154 bottom:192 class:chair 0.38
+left:560 top:358 right:610 bottom:412 class:person 0.62
+left:32 top:254 right:197 bottom:393 class:chair 0.72
+left:396 top:227 right:574 bottom:407 class:tv 0.86
+left:152 top:102 right:412 bottom:320 class:person 0.91

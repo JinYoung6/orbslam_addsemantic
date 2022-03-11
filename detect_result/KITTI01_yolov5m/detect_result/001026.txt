@@ -1,0 +1,1 @@
+left:78 top:126 right:235 bottom:178 class:train 0.38

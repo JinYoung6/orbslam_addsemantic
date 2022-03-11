@@ -1,0 +1,4 @@
+left:188 top:470 right:230 bottom:480 class:mouse 0.31
+left:137 top:175 right:175 bottom:211 class:tv 0.43
+left:356 top:392 right:500 bottom:480 class:tv 0.68
+left:164 top:396 right:257 bottom:474 class:tv 0.84

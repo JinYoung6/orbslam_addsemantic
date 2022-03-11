@@ -1,0 +1,2 @@
+left:665 top:191 right:1241 bottom:301 class:train 0.32
+left:385 top:106 right:425 bottom:150 class:stop sign 0.42

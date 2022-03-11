@@ -1,0 +1,5 @@
+left:348 top:275 right:394 bottom:386 class:cell phone 0.26
+left:565 top:393 right:640 bottom:480 class:sink 0.27
+left:392 top:342 right:531 bottom:478 class:person 0.35
+left:348 top:274 right:394 bottom:385 class:laptop 0.62
+left:217 top:338 right:400 bottom:478 class:person 0.85

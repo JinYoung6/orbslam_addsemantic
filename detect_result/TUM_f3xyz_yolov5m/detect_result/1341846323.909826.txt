@@ -1,0 +1,5 @@
+left:139 top:178 right:181 bottom:215 class:tv 0.26
+left:88 top:234 right:162 bottom:380 class:refrigerator 0.32
+left:124 top:401 right:255 bottom:480 class:laptop 0.35
+left:161 top:402 right:257 bottom:479 class:tv 0.70
+left:356 top:398 right:499 bottom:480 class:tv 0.76

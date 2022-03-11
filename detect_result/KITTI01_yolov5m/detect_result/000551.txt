@@ -1,0 +1,3 @@
+left:1005 top:139 right:1240 bottom:256 class:train 0.26
+left:563 top:176 right:594 bottom:203 class:truck 0.38
+left:562 top:177 right:594 bottom:203 class:car 0.53

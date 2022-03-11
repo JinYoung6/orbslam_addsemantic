@@ -1,0 +1,3 @@
+left:859 top:98 right:872 bottom:110 class:traffic light 0.37
+left:856 top:122 right:866 bottom:142 class:traffic light 0.45
+left:992 top:114 right:1008 bottom:143 class:traffic light 0.50

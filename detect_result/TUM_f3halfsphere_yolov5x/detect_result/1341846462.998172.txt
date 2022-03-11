@@ -1,0 +1,7 @@
+left:350 top:432 right:408 bottom:462 class:keyboard 0.28
+left:105 top:200 right:151 bottom:239 class:tv 0.28
+left:212 top:320 right:285 bottom:415 class:tv 0.84
+left:470 top:354 right:574 bottom:403 class:keyboard 0.89
+left:435 top:0 right:640 bottom:479 class:person 0.89
+left:220 top:294 right:387 bottom:477 class:person 0.90
+left:405 top:232 right:562 bottom:364 class:tv 0.90

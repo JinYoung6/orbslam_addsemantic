@@ -1,0 +1,4 @@
+left:652 top:179 right:669 bottom:190 class:car 0.26
+left:580 top:164 right:589 bottom:178 class:traffic light 0.34
+left:483 top:188 right:512 bottom:205 class:car 0.48
+left:758 top:180 right:898 bottom:266 class:car 0.92

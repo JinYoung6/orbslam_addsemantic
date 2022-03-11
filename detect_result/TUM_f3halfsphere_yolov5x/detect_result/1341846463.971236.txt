@@ -1,0 +1,7 @@
+left:402 top:421 right:437 bottom:467 class:bottle 0.26
+left:469 top:281 right:518 bottom:342 class:remote 0.32
+left:518 top:119 right:639 bottom:225 class:tv 0.38
+left:508 top:219 right:551 bottom:253 class:bottle 0.48
+left:485 top:262 right:564 bottom:362 class:keyboard 0.54
+left:292 top:372 right:450 bottom:478 class:person 0.76
+left:362 top:191 right:528 bottom:357 class:tv 0.87

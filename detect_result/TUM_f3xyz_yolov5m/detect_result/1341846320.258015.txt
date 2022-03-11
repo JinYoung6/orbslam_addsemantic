@@ -1,0 +1,6 @@
+left:266 top:194 right:322 bottom:330 class:refrigerator 0.60
+left:414 top:367 right:507 bottom:390 class:keyboard 0.62
+left:528 top:381 right:546 bottom:394 class:mouse 0.67
+left:538 top:83 right:640 bottom:474 class:person 0.86
+left:375 top:371 right:501 bottom:480 class:chair 0.88
+left:408 top:280 right:501 bottom:356 class:tv 0.88

@@ -1,0 +1,4 @@
+left:346 top:292 right:395 bottom:403 class:cell phone 0.30
+left:395 top:360 right:535 bottom:470 class:person 0.39
+left:346 top:291 right:396 bottom:403 class:laptop 0.77
+left:216 top:365 right:402 bottom:477 class:person 0.87

@@ -1,0 +1,2 @@
+left:537 top:117 right:549 bottom:146 class:traffic light 0.29
+left:463 top:184 right:473 bottom:219 class:person 0.39

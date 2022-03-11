@@ -1,0 +1,2 @@
+left:961 top:198 right:980 bottom:249 class:person 0.35
+left:607 top:158 right:664 bottom:186 class:bus 0.46

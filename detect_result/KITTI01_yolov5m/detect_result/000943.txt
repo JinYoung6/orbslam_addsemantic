@@ -1,0 +1,1 @@
+left:538 top:182 right:548 bottom:210 class:person 0.33

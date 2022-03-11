@@ -1,0 +1,2 @@
+left:548 top:193 right:564 bottom:232 class:person 0.30
+left:860 top:184 right:975 bottom:235 class:train 0.62

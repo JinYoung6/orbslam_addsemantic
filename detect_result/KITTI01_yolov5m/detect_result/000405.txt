@@ -1,0 +1,2 @@
+left:605 top:166 right:634 bottom:186 class:truck 0.26
+left:605 top:165 right:636 bottom:186 class:bus 0.26

@@ -1,0 +1,1 @@
+left:1109 top:209 right:1123 bottom:247 class:fire hydrant 0.57

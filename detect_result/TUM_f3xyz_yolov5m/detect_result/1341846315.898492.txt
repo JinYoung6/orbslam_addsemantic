@@ -1,0 +1,8 @@
+left:79 top:293 right:89 bottom:307 class:remote 0.37
+left:355 top:288 right:398 bottom:365 class:teddy bear 0.68
+left:197 top:276 right:300 bottom:294 class:keyboard 0.79
+left:308 top:231 right:322 bottom:276 class:bottle 0.79
+left:215 top:289 right:355 bottom:478 class:chair 0.89
+left:185 top:170 right:311 bottom:261 class:tv 0.90
+left:391 top:39 right:566 bottom:454 class:person 0.91
+left:0 top:0 right:109 bottom:477 class:person 0.94

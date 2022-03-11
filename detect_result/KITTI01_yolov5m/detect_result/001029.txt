@@ -1,0 +1,2 @@
+left:899 top:188 right:1241 bottom:360 class:boat 0.30
+left:479 top:182 right:491 bottom:219 class:person 0.47

@@ -1,0 +1,4 @@
+left:992 top:144 right:1240 bottom:264 class:train 0.32
+left:915 top:111 right:955 bottom:152 class:traffic light 0.33
+left:562 top:175 right:594 bottom:204 class:truck 0.42
+left:562 top:176 right:595 bottom:204 class:car 0.54

@@ -1,0 +1,4 @@
+left:424 top:343 right:464 bottom:464 class:laptop 0.25
+left:428 top:82 right:543 bottom:172 class:tv 0.28
+left:283 top:388 right:479 bottom:478 class:person 0.76
+left:316 top:179 right:448 bottom:340 class:tv 0.86

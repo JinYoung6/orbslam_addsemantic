@@ -1,0 +1,2 @@
+left:0 top:112 right:258 bottom:267 class:airplane 0.38
+left:1009 top:168 right:1073 bottom:203 class:car 0.83

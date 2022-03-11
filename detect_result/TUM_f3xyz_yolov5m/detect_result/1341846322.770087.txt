@@ -1,0 +1,5 @@
+left:482 top:422 right:497 bottom:470 class:bottle 0.54
+left:123 top:171 right:164 bottom:206 class:tv 0.55
+left:133 top:453 right:238 bottom:478 class:keyboard 0.77
+left:349 top:348 right:484 bottom:452 class:tv 0.88
+left:159 top:357 right:248 bottom:432 class:tv 0.89

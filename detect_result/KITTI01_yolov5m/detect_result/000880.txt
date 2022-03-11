@@ -1,0 +1,2 @@
+left:546 top:182 right:572 bottom:215 class:motorcycle 0.32
+left:489 top:176 right:512 bottom:192 class:car 0.58

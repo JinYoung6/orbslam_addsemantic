@@ -1,0 +1,2 @@
+left:1206 top:248 right:1241 bottom:370 class:parking meter 0.26
+left:1039 top:167 right:1123 bottom:204 class:car 0.81

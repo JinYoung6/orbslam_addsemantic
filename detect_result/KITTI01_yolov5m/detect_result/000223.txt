@@ -1,0 +1,2 @@
+left:4 top:244 right:350 bottom:370 class:bench 0.44
+left:284 top:179 right:378 bottom:229 class:truck 0.48

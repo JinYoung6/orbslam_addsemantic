@@ -1,0 +1,10 @@
+left:498 top:224 right:528 bottom:247 class:mouse 0.31
+left:19 top:150 right:55 bottom:176 class:mouse 0.37
+left:2 top:193 right:28 bottom:211 class:mouse 0.47
+left:533 top:202 right:579 bottom:296 class:teddy bear 0.55
+left:228 top:207 right:250 bottom:226 class:mouse 0.79
+left:0 top:288 right:174 bottom:479 class:chair 0.80
+left:393 top:294 right:606 bottom:476 class:chair 0.85
+left:105 top:64 right:219 bottom:152 class:tv 0.87
+left:94 top:180 right:212 bottom:216 class:keyboard 0.91
+left:255 top:0 right:516 bottom:470 class:person 0.94

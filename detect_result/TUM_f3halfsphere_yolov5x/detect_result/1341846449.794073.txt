@@ -1,0 +1,9 @@
+left:436 top:38 right:492 bottom:128 class:tv 0.34
+left:518 top:167 right:562 bottom:256 class:person 0.54
+left:436 top:39 right:492 bottom:130 class:chair 0.55
+left:475 top:116 right:494 bottom:168 class:bottle 0.71
+left:0 top:238 right:187 bottom:478 class:chair 0.79
+left:105 top:54 right:192 bottom:135 class:tv 0.82
+left:100 top:165 right:196 bottom:191 class:keyboard 0.90
+left:392 top:247 right:590 bottom:466 class:chair 0.91
+left:188 top:0 right:477 bottom:472 class:person 0.94

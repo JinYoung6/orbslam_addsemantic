@@ -1,0 +1,1 @@
+left:605 top:163 right:652 bottom:186 class:bus 0.29

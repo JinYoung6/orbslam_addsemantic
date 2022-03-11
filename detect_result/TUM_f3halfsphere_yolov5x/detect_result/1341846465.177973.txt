@@ -1,0 +1,5 @@
+left:388 top:394 right:456 bottom:478 class:chair 0.26
+left:348 top:284 right:396 bottom:396 class:laptop 0.28
+left:347 top:284 right:394 bottom:396 class:cell phone 0.40
+left:560 top:398 right:640 bottom:480 class:sink 0.47
+left:218 top:346 right:402 bottom:477 class:person 0.83

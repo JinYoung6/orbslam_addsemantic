@@ -1,0 +1,4 @@
+left:95 top:223 right:156 bottom:368 class:refrigerator 0.34
+left:500 top:436 right:518 bottom:479 class:bottle 0.63
+left:174 top:372 right:264 bottom:446 class:tv 0.88
+left:364 top:360 right:503 bottom:464 class:tv 0.88

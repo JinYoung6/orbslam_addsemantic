@@ -1,0 +1,3 @@
+left:387 top:192 right:558 bottom:370 class:tv 0.52
+left:538 top:331 right:588 bottom:383 class:person 0.68
+left:150 top:58 right:438 bottom:280 class:person 0.76

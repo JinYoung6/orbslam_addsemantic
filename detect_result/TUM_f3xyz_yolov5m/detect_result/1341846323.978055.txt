@@ -1,0 +1,3 @@
+left:143 top:185 right:183 bottom:224 class:tv 0.44
+left:363 top:406 right:506 bottom:480 class:tv 0.64
+left:168 top:410 right:264 bottom:480 class:tv 0.72

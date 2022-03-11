@@ -1,0 +1,1 @@
+left:53 top:233 right:126 bottom:277 class:bench 0.60
